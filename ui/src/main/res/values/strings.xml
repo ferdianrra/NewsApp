@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Technology</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Health</item>
+    </string-array>
+    <string name="searching_content_description">Searching for news</string>
+    <string name="news_image_description">News Image</string>
+    <string name="error_response">An error has occurred. Please try again.</string>
+    <string name="try_again">Try Again</string>
+</resources>
