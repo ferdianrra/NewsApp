@@ -78,7 +78,6 @@ fun FavoriteContent(
     modifier: Modifier = Modifier,
     listNews: List<News>
 ) {
-    Log.e("FavoriteScreen", listNews.toString())
     LazyColumn(
         modifier = modifier
     ) {
